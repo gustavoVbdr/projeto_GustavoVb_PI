@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400;700;900&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #1A1A1A;
+  
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #3B0F0F;
+  color: white;
+  padding: 15px 40px;
+  border-bottom: 2px solid white;
+  font-family: 'Cinzel', serif;
+}
+
+nav {
+  display: flex; 
+  gap: 20px;
+}
+
+/* Links do menu */
+nav a {
+  color: white;
+  text-decoration: none;
+}
+
+main {
+  margin-left: 300px;
+  margin-right: 300px;
+}
+
+.titulohome{
+  color: white;
+  text-align: center;
+  border-top: 100px;
+
+
+
+
+}
+
