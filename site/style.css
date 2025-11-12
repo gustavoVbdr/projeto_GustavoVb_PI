@@ -178,3 +178,28 @@ button{
 .centralizarTexto{
   text-align: center;
 }
+
+.caixaPergunta{
+  border: 4px solid #3B0F0F;
+  border-radius: 10px;
+  padding: 20px;
+  background-color: #3B0F0F;
+  margin-top: 20px;
+
+}
+
+.selecionar{
+  background-color: white;
+  border: 4px solid rgb(0, 0, 0) ;
+  border-radius: 6px;
+  width: 100%;
+}
+
+.resultadoQuiz{
+  border: 4px solid #3B0F0F ;
+  border-radius: 6px;
+  padding: 25px;
+  margin: 200px;
+  margin-bottom: 200px;
+  background-color: #3b0f0f;
+}
